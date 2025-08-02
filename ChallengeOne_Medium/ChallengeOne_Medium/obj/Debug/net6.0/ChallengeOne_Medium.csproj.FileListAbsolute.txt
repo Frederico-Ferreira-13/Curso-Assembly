@@ -1,0 +1,15 @@
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\bin\Debug\net6.0\ChallengeOne_Medium.exe
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\bin\Debug\net6.0\ChallengeOne_Medium.deps.json
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\bin\Debug\net6.0\ChallengeOne_Medium.runtimeconfig.json
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\bin\Debug\net6.0\ChallengeOne_Medium.dll
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\bin\Debug\net6.0\ChallengeOne_Medium.pdb
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.csproj.AssemblyReference.cache
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.AssemblyInfoInputs.cache
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.AssemblyInfo.cs
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.csproj.CoreCompileInputs.cache
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.dll
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\refint\ChallengeOne_Medium.dll
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.pdb
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ChallengeOne_Medium.genruntimeconfig.cache
+C:\Users\yuriv\source\repos\ChallengeOne_Medium\ChallengeOne_Medium\obj\Debug\net6.0\ref\ChallengeOne_Medium.dll
